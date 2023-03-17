@@ -1,0 +1,12 @@
+curl 'http://47.104.212.164:3000/dataList?data_type_id=&main_title=&content=&src=&pageIndex=1&pageSize=10&manager_name=admin_plus' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: zh' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Origin: http://code2.haisheteam.com' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: http://code2.haisheteam.com/' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36' \
+  -H 'authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRtaW5fcGx1cyIsInBhc3N3b3JkIjoiaWRndGVjaG5ldHdvcmstODA4IiwiaWF0IjoxNjc4OTU4ODk2LCJleHAiOjE2NzkwNDUyOTZ9.nI6BojdEvIIHPpH5knhvJ3If6OFHb_EirMK68uSViXA' \
+  --compressed \
+  --insecure

@@ -1,0 +1,7 @@
+db
+data*
+ai*
+.idea
+.Ds_Store
+*.xlsx
+config.py
